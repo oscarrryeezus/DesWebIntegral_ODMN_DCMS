@@ -19,6 +19,6 @@ jobs:
         run: echo Hello, world!
 
       - name: Di la fecha del sistema
-        run: echo timedatectl
+        run:  timedatectl
 
 
