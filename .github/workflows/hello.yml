@@ -18,4 +18,7 @@ jobs:
       - name: Echo Terminal
         run: echo Hello, world!
 
+      - name: Di la fecha del sistema
+        run: echo timedatectl
+
 
